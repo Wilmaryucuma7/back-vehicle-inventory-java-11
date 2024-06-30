@@ -4,7 +4,7 @@
 
 El proyecto está desarrollado utilizando las siguientes tecnologías y frameworks:
 
-- Lenguaje de programación: Java 8
+- Lenguaje de programación: Java 11
 - Frameworks: Spring Boot 2.7.18
 - Gestor de dependencias: Maven
 - Base de datos: MySQL
